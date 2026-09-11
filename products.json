@@ -1,0 +1,134 @@
+[
+  {
+    "id": "business-laptop",
+    "category": "laptops",
+    "status": "inStock",
+    "image": "",
+    "title": {
+      "fa": "لپ‌تاپ تجاری",
+      "en": "Business Laptop",
+      "az": "Biznes noutbuku"
+    },
+    "description": {
+      "fa": "مناسب کار روزانه، حسابداری، فروشگاه و استفاده دانشجویی.",
+      "en": "Built for daily work, accounting, retail and student use.",
+      "az": "Gündəlik iş, mühasibat, mağaza və tələbə istifadəsi üçün uyğundur."
+    },
+    "price": {
+      "fa": "برای قیمت تماس بگیرید",
+      "en": "Call for price",
+      "az": "Qiymət üçün əlaqə saxlayın"
+    },
+    "specs": ["Intel Core i5", "16GB RAM", "512GB SSD"]
+  },
+  {
+    "id": "office-desktop",
+    "category": "desktops",
+    "status": "available",
+    "image": "",
+    "title": {
+      "fa": "کامپیوتر رومیزی اداری",
+      "en": "Office Desktop PC",
+      "az": "Ofis masaüstü kompüteri"
+    },
+    "description": {
+      "fa": "سیستم آماده برای دفتر، خانه، فروشگاه و نرم‌افزارهای عمومی.",
+      "en": "Ready desktop system for office, home, store and general software.",
+      "az": "Ofis, ev, mağaza və ümumi proqramlar üçün hazır sistem."
+    },
+    "price": {
+      "fa": "برای قیمت تماس بگیرید",
+      "en": "Call for price",
+      "az": "Qiymət üçün əlaqə saxlayın"
+    },
+    "specs": ["SSD Storage", "Windows Ready", "Upgrade Options"]
+  },
+  {
+    "id": "smartphone-service",
+    "category": "mobile",
+    "status": "available",
+    "image": "",
+    "title": {
+      "fa": "موبایل و لوازم جانبی",
+      "en": "Mobile Phones & Accessories",
+      "az": "Mobil telefonlar və aksesuarlar"
+    },
+    "description": {
+      "fa": "گوشی، شارژر، کابل، محافظ صفحه و لوازم کاربردی موبایل.",
+      "en": "Phones, chargers, cables, screen protectors and practical accessories.",
+      "az": "Telefonlar, şarj cihazları, kabellər, ekran qoruyucuları və aksesuarlar."
+    },
+    "price": {
+      "fa": "استعلام موجودی",
+      "en": "Ask availability",
+      "az": "Mövcudluğu soruşun"
+    },
+    "specs": ["Phones", "Chargers", "Cables"]
+  },
+  {
+    "id": "office-printer",
+    "category": "printers",
+    "status": "inStock",
+    "image": "",
+    "title": {
+      "fa": "پرینتر اداری",
+      "en": "Office Printer",
+      "az": "Ofis printeri"
+    },
+    "description": {
+      "fa": "پرینت، اسکن، کپی و راه‌اندازی برای خانه و کسب‌وکار.",
+      "en": "Print, scan, copy and setup for home and business.",
+      "az": "Ev və biznes üçün çap, skan, kopyalama və quraşdırma."
+    },
+    "price": {
+      "fa": "برای قیمت تماس بگیرید",
+      "en": "Call for price",
+      "az": "Qiymət üçün əlaqə saxlayın"
+    },
+    "specs": ["Print", "Scan", "Wi-Fi"]
+  },
+  {
+    "id": "full-hd-monitor",
+    "category": "monitors",
+    "status": "inStock",
+    "image": "",
+    "title": {
+      "fa": "مانیتور Full HD",
+      "en": "Full HD Monitor",
+      "az": "Full HD monitor"
+    },
+    "description": {
+      "fa": "نمایشگر مناسب دفتر، طراحی، آموزش و استفاده روزمره.",
+      "en": "Display for office, design, learning and everyday use.",
+      "az": "Ofis, dizayn, təhsil və gündəlik istifadə üçün monitor."
+    },
+    "price": {
+      "fa": "برای قیمت تماس بگیرید",
+      "en": "Call for price",
+      "az": "Qiymət üçün əlaqə saxlayın"
+    },
+    "specs": ["HDMI", "IPS", "27 inch"]
+  },
+  {
+    "id": "repair-upgrade",
+    "category": "parts",
+    "status": "service",
+    "image": "",
+    "title": {
+      "fa": "قطعات و ارتقا سیستم",
+      "en": "Parts & System Upgrades",
+      "az": "Hissələr və sistem yüksəltməsi"
+    },
+    "description": {
+      "fa": "رم، SSD، مادربرد، پاور، کابل و سرویس ارتقای کامپیوتر و لپ‌تاپ.",
+      "en": "RAM, SSD, motherboard, power supply, cables and upgrade service.",
+      "az": "RAM, SSD, ana plata, enerji bloku, kabellər və yüksəltmə xidməti."
+    },
+    "price": {
+      "fa": "مشاوره و استعلام",
+      "en": "Consult and quote",
+      "az": "Məsləhət və qiymət"
+    },
+    "specs": ["RAM", "SSD", "Motherboard"]
+  }
+]
